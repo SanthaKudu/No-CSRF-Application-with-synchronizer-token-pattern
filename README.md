@@ -1,4 +1,4 @@
-# No-CSRF-Application-with-synchronizer-token-pattern
+# Non-CSRF-Application-with-synchronizer-token-pattern
 implementing simple sample application with synchronizer token pattern 
 # email : kudu100pipers@gmail.com
 #
